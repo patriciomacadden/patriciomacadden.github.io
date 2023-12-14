@@ -1,0 +1,30 @@
+url: "https://patricio.macadden.com"
+baseurl: ""
+title: "Patricio Mac Adden"
+description: "Patricio Mac Adden's personal website"
+
+author: Patricio Mac Adden
+
+social:
+  name: Patricio Mac Adden
+  links:
+    - https://www.linkedin.com/in/patriciomacadden
+    - https://github.com/patriciomacadden
+    - https://www.facebook.com/patriciomacadden
+    - https://twitter.com/maxawen
+    - https://www.instagram.com/patriciomacadden
+
+locale: en_US
+
+twitter:
+  card: summary
+  creator: maxawen
+  username: maxawen
+
+plugins:
+  - jekyll-postcss
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+postcss:
+  cache: false
